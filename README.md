@@ -1,78 +1,98 @@
-# 🚀 My Odyssey Plan 2026
-> From Java Backend to AI Agent Engineer, to a free, meaningful life.
+# 🚀 我的奥德赛计划 2026
 
-## 🎯 Core Vision
-This repository is my 5-year life plan tracker, documenting every step from a CRUD engineer to an AI expert, and finally to a life I truly love.
-
-### 🔹 Career Goal
-**AI Application / Agent Developer**
-- Upgrade from traditional Java backend to cutting-edge AI application development
-- Build irreplaceable technical barriers in the era of AI
-- Achieve financial freedom and work autonomy in 5 years
-
-### 🔹 Inner Passion
-**Geography, History, Family Stories, Writing & Gentle Teaching**
-- Explore my family's migration history from Zhejiang to Anhui
-- Create a personal knowledge base of geography and humanities
-- Continue teaching as a way to give back, not for profit
-
-### 🔹 5-Year Vision
-**Freedom, Stability, No Internal Friction, Live for Myself**
-- No 996, no performance anxiety, no workplace politics
-- A warm, sunlit home with a study and a sunroom
-- A small circle of trusted friends and students
-- A life filled with things I truly love
+> 从 Java 后端开发者，到 AI Agent 工程师，最终走向自由且有意义的人生。
 
 ---
 
-## 📈 5-Year Roadmap
-### Year 1 (2026) - Foundation Building
-- [ ] Master Python, LangChain, LlamaIndex
-- [ ] Complete 1 deployable AI Agent project
-- [ ] Publish 10+ technical blogs on CSDN/GitHub
-- [ ] Land an AI-related backend position
+## 🎯 核心愿景
 
-### Year 2 (2027) - Skill Deepening
-- [ ] Become the core AI developer in the team
-- [ ] Master large model fine-tuning and RAG technology
-- [ ] Build a personal AI toolset
-- [ ] Increase salary to 18k-25k/month
+这个仓库是我为期 5 年的人生计划追踪器，记录我从一名 CRUD 工程师成长为 AI 专家，最终过上真正热爱的生活的每一步。
 
-### Year 3 (2028) - Expertise Formation
-- [ ] Lead AI application project development
-- [ ] Establish personal technical influence in the industry
-- [ ] Develop standardized AI products for small businesses
-- [ ] Achieve passive income from side projects
+### 🔹 职业目标
 
-### Year 4 (2029) - Freedom Transition
-- [ ] Reduce full-time work hours, focus on personal projects
-- [ ] Launch online courses/consulting services
-- [ ] Expand geography and humanities content creation
-- [ ] Achieve financial independence from full-time work
+**AI 应用 / Agent 开发工程师**
 
-### Year 5 (2030) - Ideal Life
-- [ ] Fully transition to free work mode
-- [ ] Realize the ideal life of travel, creation and teaching
-- [ ] Complete the family history and geography notes book
-- [ ] Live completely for myself
+- 从传统 Java 后端，升级到前沿 AI 应用开发领域
+- 在 AI 时代打造不可替代的技术壁垒
+- 5 年内实现财务自由与工作自主权
+
+### 🔹 内心热爱
+
+**地理、历史、家族故事、写作与温柔教学**
+
+- 探寻家族从浙江到安徽的迁徙历史
+- 搭建个人地理与人文知识库
+- 以回馈社会为目的继续教学，而非盈利
+
+### 🔹 5 年愿景
+
+**自由、稳定、不内耗、为自己而活**
+
+- 告别 996、绩效焦虑与职场内耗
+- 拥有一间带书房和阳光房的温暖向阳的家
+- 拥有一小群值得信任的朋友与学生
+- 过上被真正热爱的事物填满的人生
 
 ---
 
-## 📚 Project & Learning Log
-| Date | Project / Learning Content | Status |
-|------|-----------------------------|--------|
-| 2026-03-24 | Odyssey Plan Repository Created | ✅ Completed |
-| | | |
-| | | |
+## 📈 5 年路线图
+
+### 第 1 年（2026）- 打牢基础
+
+- [ ]  掌握 Python、LangChain、LlamaIndex
+- [ ]  完成 1 个可部署的 AI Agent 项目
+- [ ]  在 CSDN/GitHub 发布 10 + 篇技术博客
+- [ ]  入职 AI 相关的后端岗位
+
+### 第 2 年（2027）- 技能深化
+
+- [ ]  成为团队核心 AI 开发人员
+- [ ]  掌握大模型微调与 RAG 技术
+- [ ]  搭建个人 AI 工具集
+- [ ]  薪资提升至 18k-25k / 月
+
+### 第 3 年（2028）- 形成专业壁垒
+
+- [ ]  主导 AI 应用项目开发
+- [ ]  在行业内建立个人技术影响力
+- [ ]  为中小企业开发标准化 AI 产品
+- [ ]  通过副业实现被动收入
+
+### 第 4 年（2029）- 向自由过渡
+
+- [ ]  减少全职工作时长，专注个人项目
+- [ ]  推出线上课程 / 咨询服务
+- [ ]  拓展地理与人文内容创作
+- [ ]  实现财务独立，不再依赖全职工作
+
+### 第 5 年（2030）- 理想人生
+
+- [ ]  完全过渡到自由工作模式
+- [ ]  实现旅行、创作与教学的理想生活
+- [ ]  完成家族史与地理笔记著作
+- [ ]  彻底为自己而活
 
 ---
 
-## 💡 Core Principles
-1.  **Technology is the foundation, but not the end.**
-2.  **Never stop learning, never stop exploring.**
-3.  **Always keep the inner passion alive.**
-4.  **Work hard to live the life I want.**
+## 📚 项目与学习日志
+
+表格
+
+|日期|项目 / 学习内容|状态|
+|---|---|---|
+|2026-03-24|创建奥德赛计划仓库|✅ 已完成|
+||||
+||||
 
 ---
 
-*This is my life, my plan, my journey. 🚀*
+## 💡 核心原则
+
+1. **技术是基础，但不是终点。**
+2. **永远不停止学习，永远不停止探索。**
+3. **始终保持内心的热爱与鲜活。**
+4. **努力工作，只为过上自己想要的生活。**
+
+---
+
+_这是我的人生，我的计划，我的旅程。🚀_
